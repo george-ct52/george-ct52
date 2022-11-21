@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm George C Thomas</h1>
 <h3 align="center">A Cse Undergrad, 18 yo from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=george-ct52&label=Known%20by&color=175705&style=flat-square" alt="george-ct52" /> </p>
+
 - 🌱 I’m currently learning **Python Django**
 
-- 💬 Ask me about **cars , technology, code**
+- 💬 Ask me about **cars , technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
