@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python Django**
 
-- 💬 Ask me about **Cars , Technology , Code**
+- 💬 Ask me about **Cars , Technology , Code , Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
