@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/gexrge_ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gexrge_ct" height="30" width="40" /></a>
+        <a href="https://instagram.com/gexrge_ct" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Finstagram-social-media-icon-gradient-social-media-logo_35142714.htm&psig=AOvVaw037GOY8GnpCtXCIyXj6hnt&ust=1679671684646000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCzz-au8v0CFQAAAAAdAAAAABAE" alt="gexrge_ct" height="30" width="40" /></a>
+
 <a href="https://discord.gg/gexrge_ct#6742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gexrge_ct#6742" height="30" width="40" /></a>
 </p>
 
