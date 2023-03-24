@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/gexrge_ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gexrge_ct" height="30" width="40" /></a>
 <a href="https://discord.gg/gexrge_ct#6742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gexrge_ct#6742" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/georgect5200" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="georgect5200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/georgect5200" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-1.png" alt="georgect5200" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
