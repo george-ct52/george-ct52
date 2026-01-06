@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a highly motivated third-year computer science student , I am committed to pursuing a career in computer science. My passion for technology, coupled with my interest in movies, makes me an enthusiastic learner of new technologies. I am currently developing my skills in Backend Development using Django.
+As a highly motivated final-year computer science engineering student , I am committed to pursuing a career in computer science. My passion for technology, coupled with my interest in movies, makes me an enthusiastic learner of new technologies. I am currently developing my skills in Backend Development using Django.
 
 
 ## 🌐 Socials:
